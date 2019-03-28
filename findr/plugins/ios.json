@@ -15,6 +15,9 @@
     },
     "cordova-plugin-splashscreen": {
       "PACKAGE_NAME": "ca.edumedia.wong0302.findr"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "ca.edumedia.wong0302.findr"
     }
   },
   "dependent_plugins": {}
